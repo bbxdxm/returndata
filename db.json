@@ -1,6 +1,77 @@
 {
 "posts":[
-  {"date":"Jan 2019",
-  "return":"36.2"}
+  {
+    "date":"Jan 2019",
+    "return":"3.67"
+  },{
+    "date":"Feb 2019",
+    "return":"3.29"
+  },{
+    "date":"Mar 2019",
+    "return":"3.85"
+  },{
+    "date":"Apr 2019",
+    "return":"3.17"
+  },{
+    "date":"May 2019",
+    "return":"3.62"
+  },{
+    "date":"Jun 2019",
+    "return":"5.33"
+  },{
+    "date":"Jul 2019",
+    "return":"3.98"
+  },{
+    "date":"Aug 2019",
+    "return":"3.17"
+  },{
+    "date":"Sep 2019",
+    "return":"3.32"
+  },{
+    "date":"Oct 2019",
+    "return":"2.97"
+  },{
+    "date":"Nov 2019",
+    "return":"2.83"
+  },{
+    "date":"Dec 2019",
+    "return":"3.26"
+  },{
+    "date":"Jan 2020",
+    "return":"3.71"
+  },{
+    "date":"Feb 2020",
+    "return":"3.52"
+  },{
+    "date":"Mar 2020",
+    "return":"3.69"
+  },{
+    "date":"Apr 2020",
+    "return":"5.11"
+  },{
+    "date":"May 2020",
+    "return":"3.94"
+  },{
+    "date":"Jun 2020",
+    "return":"3.77"
+  },{
+    "date":"Jul 2020",
+    "return":"4.23"
+  },{
+    "date":"Aug 2020",
+    "return":"4.76"
+  },{
+    "date":"Sep 2020",
+    "return":"3.26"
+  },{
+    "date":"Oct 2020",
+    "return":"3.79"
+  },{
+    "date":"Nov 2020",
+    "return":"2.51"
+  },{
+    "date":"Dec 2020",
+    "return":"2.65"
+  }
 ]
 }
