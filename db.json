@@ -74,4 +74,68 @@
     "return":"2.65"
   }
 ]
+
+"profile":[
+  {
+    "name":"Jun Huang",
+    "info":"Mr. Huang is the CEO and has over 15 years experience in the management and finance industries. He is a specialist in data analysis and hedge fund marketing. He leads the teams to a fast success development and helps our clients secure their highly investment return.",
+    "uni":"University of Sydney",
+    "major":"Finance"
+  },{
+    "name":"Solomon Sun",
+    "info":"Solomon is the manager of the company and in charge of the daily operating and organizing all the tasks of the staff schedule. He helps review all the investment plans for the company and also provides  marketing strategies across all channel platforms, including search, display, social, programmatic advertising, Live Show,  LinkedIn, and Facebook identify etc. He measures and prepares the report on industry trends.",
+    "uni":"Macquarie University",
+    "major":"Master of Commerce"
+  },{
+    "name":"Nan Zhou",
+    "info":"Mr. Zhou is the head advisor of wealth management.  He brings a professional approach to different investment strategies. Drawing from years of experience, he has built a reputation for his refreshingly friendly customer care and proven ability to guide customers to find out the best value for their investment plans.",
+    "uni":"Macquarie University",
+    "major":"Accounting"
+  },{
+    "name":"Amanda Wang",
+    "info":"Amanda is the Manager of whole IT maintenance team. She plays a crucial role in overseeing and leading maintenance procedures. She is also responsible for web operation and user interaction and also provide data analysis to support the teams' needs.",
+    "uni":"University of Technology Sydney",
+    "major":"Cyber security"
+  },{
+    "name":"Joseph Song",
+    "info":"Joseph is public Finance Advisor, who is professional and experienced in investment. He is available to answer all of the questions about hedge fund investment and helps clients understand financial knowledge of investment. He helps guide customers to understand and minimises the risks. He helps clients to acquire financial knowledge and essential information about their investment.",
+    "uni":"University of Technology Sydney",
+    "major":"Finance and Data Analysts"
+  },{
+    "name":"Kevin Liu",
+    "info":"Kevin works on Data Analyst and prepares information for the hedge fund trader team. He is also responsible for getting crucial latest information to prepare the report to all the trader daily.",
+    "uni":"University of Technology Sydney",
+    "major":"Data Analysts"
+  },{
+    "name":"Tony Liu",
+    "info":"Tony is in charge of marketing and usually comes up with innovative ideas and tactics and develop creative concepts to meet the client’s goals, continuously optimize and improve the marketing campaigns  to help the company reach more customers from Australia and oversea.",
+    "uni":"La trobe University ",
+    "major":"Marketing"
+  },{
+    "name":"Nora Sun",
+    "info":"Nora is accounting specialist and she is incharge of the accounting department and also provides professional advice for customers. She fully understands the customer’s financial situation and needs and make a personalization investment plan for individual customer.",
+    "uni":"Macquarie University",
+    "major":"Professional Accounting in CPA"
+  },{
+    "name":"James Chen",
+    "info":"James has In-depth technical knowledge of network and operating systems that can identify threats and work to create steps to defend against them, he is also working with the hedge fund trader team by providing important information to the team.",
+    "uni":"University of Technology Sydney",
+    "major":"Data An﻿alysts"
+  },{
+    "name":"Caroline Chen",
+    "info":"Caroline is a specialist in data analysts, she is responsible for analysis and mining of historical data by building different models. She makes contribution for suggestions of case improvement of software operating and she also helps provide our trader teams with the most accurate information.",
+    "uni":"Western Sydney University",
+    "major":"Data An﻿alysts"
+  },{
+    "name":"Aaron Wang",
+    "info":"Aaron is the core of our IT development team for his talent programming skills. He takes charge of optimization structure for the trading softwares.  He also is responsible for the new develping of our company's new AI trading system.",
+    "uni":"Western Sydney University",
+    "major":"Master of Informa﻿tion and Communications Technology"
+  },{
+    "name":"Stan Yan",
+    "info":"Stan is in charge of cyber security and interaction design. He provides professional skills to help prevent cyber security for the company. He also provides assisting to all the hedge fund trader team.",
+    "uni":"University of Technology Sydney",
+    "major":"Cyber security"
+  }
+]
 }
