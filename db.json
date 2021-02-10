@@ -77,15 +77,15 @@
 ,
 "profile":[
   {
-      "name": "Tracy",
-      "info": "Tracy is corporate financial advisor, has over 20 years’ experience in investment management. She provides robust, tailored, and personal investment advice to clients, and communicates with clients regarding their investment portfolios and financial wellbeing. She had been working with the top institution in Singapore, China, and Australia. She helps clients and enterprises obtain the highest investment returns in the past few years.",
-      "uni": "",
-      "major": "",
+    "name": "Tracy",
+    "info": "Tracy is a corporate financial advisor, has over 20 years’ experience in investment management. She provides robust, tailored, and personal investment advice to clients, and communicates with clients regarding their investment portfolios and financial wellbeing. She had been working with the top institution in Singapore, China, and Australia. She helps clients and enterprises obtain the highest investment returns in the past few years.",
+    "uni": "",
+    "major": "International trade",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG1249-1920w.jpeg"
     },
   {
     "name":"Jun Huang",
-    "info":"Mr. Huang is the CEO and has over 15 years experience in the management and finance industries. He is a specialist in data analysis and hedge fund marketing. He leads the teams to a fast success development and helps our clients secure their highly investment return.",
+    "info":"Mr. Huang is the CEO and has over 15 years experience in the management and finance industries. He is a specialist in data analysis and hedge fund marketing. He leads the teams to a fast success development and helps our clients secure their high investment return.",
     "uni":"University of Sydney",
     "major":"Finance",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210112160853.jpg"
@@ -96,20 +96,20 @@
     "major":"Master of Commerce",
     "iconUrl":"https://lirp-cdn.multiscreensite.com/29536662/dms3rep/multi/opt/soloman-420w.jpg"
   },{
+    "name":"Amanda Wang",
+    "info":"Amanda is the Manager of the whole IT maintenance team. She plays a crucial role in overseeing and leading maintenance procedures. She is also responsible for web operation and user interaction and also provide data analysis to support the teams' needs.",
+    "uni":"University of Technology Sydney",
+    "major":"Cyber security",
+    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG19.jpeg"
+  },{
     "name":"Nan Zhou",
     "info":"Mr. Zhou is the head advisor of wealth management.  He brings a professional approach to different investment strategies. Drawing from years of experience, he has built a reputation for his refreshingly friendly customer care and proven ability to guide customers to find out the best value for their investment plans.",
     "uni":"Macquarie University",
     "major":"Accounting",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210112160828.jpg"
   },{
-    "name":"Amanda Wang",
-    "info":"Amanda is the Manager of whole IT maintenance team. She plays a crucial role in overseeing and leading maintenance procedures. She is also responsible for web operation and user interaction and also provide data analysis to support the teams' needs.",
-    "uni":"University of Technology Sydney",
-    "major":"Cyber security",
-    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG19.jpeg"
-  },{
     "name":"Joseph Song",
-    "info":"Joseph is public Finance Advisor, who is professional and experienced in investment. He is available to answer all of the questions about hedge fund investment and helps clients understand financial knowledge of investment. He helps guide customers to understand and minimises the risks. He helps clients to acquire financial knowledge and essential information about their investment.",
+    "info":"Joseph is a public Finance Advisor, who is professional and experienced in investment. He is available to answer all of the questions about hedge fund investment and helps clients understand financial knowledge of investment. He helps guide customers to understand and minimises the risks. He helps clients to acquire financial knowledge and essential information about their investment.",
     "uni":"University of Technology Sydney",
     "major":"Finance and Data Analysts",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202101121608531.jpg"
@@ -120,17 +120,17 @@
     "major":"Data Analysts",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG18.jpg"
   },{
-    "name":"Tony Liu",
-    "info":"Tony is in charge of marketing and usually comes up with innovative ideas and tactics and develop creative concepts to meet the client’s goals, continuously optimize and improve the marketing campaigns  to help the company reach more customers from Australia and oversea.",
-    "uni":"La trobe University ",
-    "major":"Marketing",
-    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG21.jpg"
-  },{
     "name":"Nora Sun",
-    "info":"Nora is accounting specialist and she is incharge of the accounting department and also provides professional advice for customers. She fully understands the customer’s financial situation and needs and make a personalization investment plan for individual customer.",
+    "info":"Nora is an accounting specialist and she is in charge of the accounting department and also provides professional advice for customers. She fully understands the customer’s financial situation and needs and make a personalization investment plan for the individual customer.",
     "uni":"Macquarie University",
     "major":"Professional Accounting in CPA",
     "iconUrl":"https://lirp-cdn.multiscreensite.com/29536662/dms3rep/multi/opt/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202101121608533-440w.jpg"
+  },{
+    "name":"Tony Liu",
+    "info":"Tony is in charge of marketing and usually comes up with innovative ideas and tactics and develop creative concepts to meet the client’s goals, continuously optimize and improve the marketing campaigns  to help the company reach more customers from Australia and overseas.",
+    "uni":"La trobe University ",
+    "major":"Marketing",
+    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG21.jpg"
   },{
     "name":"James Chen",
     "info":"James has In-depth technical knowledge of network and operating systems that can identify threats and work to create steps to defend against them, he is also working with the hedge fund trader team by providing important information to the team.",
@@ -139,22 +139,40 @@
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202101121608536.jpg"
   },{
     "name":"Caroline Chen",
-    "info":"Caroline is a specialist in data analysts, she is responsible for analysis and mining of historical data by building different models. She makes contribution for suggestions of case improvement of software operating and she also helps provide our trader teams with the most accurate information.",
+    "info":"Caroline is a specialist in data analysts, she is responsible for analysis and mining of historical data by building different models. She makes contributions for suggestions of case improvement of software operating and she also helps provide our trader teams with the most accurate information.",
     "uni":"Western Sydney University",
     "major":"Data Analysts",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WechatIMG22.jpeg"
   },{
     "name":"Aaron Wang",
-    "info":"Aaron is the core of our IT development team for his talent programming skills. He takes charge of optimization structure for the trading softwares.  He also is responsible for the new develping of our company's new AI trading system.",
+    "info":"Aaron is the core of our IT development team for his talent programming skills. He takes charge of the optimisation structure for the trading software. He also is responsible for the new development of our company's new AI trading system.",
     "uni":"Western Sydney University",
-    "major":"Master of Informa﻿tion and Communications Technology",
+    "major":"Master of Information and Communications Technology",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/AAron-E3-80-81-3fd74f1c.jpg"
   },{
     "name":"Stan Yan",
-    "info":"Stan is in charge of cyber security and interaction design. He provides professional skills to help prevent cyber security for the company. He also provides assisting to all the hedge fund trader team.",
+    "info":"Stan is in charge of cybersecurity and interaction design. He provides professional skills to help prevent cybersecurity for the company. He also provides assistance to all the hedge fund trader team.",
     "uni":"University of Technology Sydney",
     "major":"Cyber security",
     "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202101121608535.jpg"
+  },{
+    "name":"Funie",
+    "info":"Funie is a specialist in data analysts, she is responsible for predicting the future trends of investment products base on the data.",
+    "uni":"",
+    "major":"",
+    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/-E5-BE-AE-E4-BF-A1-E5-9B-BE-E7-89-87_20210123162940-0319f523.jpg"
+  },{
+    "name":"Kelvin Fong",
+    "info":"Kelvin is the technical support from the IT department, who responsible for data handling, IT service monitoring and maintenance.",
+    "uni":"University of Sydney",
+    "major":"Master of IT and Master of IT Management",
+    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/WeChat+Image_20210210142806-resized.jpg"
+  },{
+    "name":"Terry Zhang",
+    "info":"Terry is a passionate member of the IT development team. With proficient communication and programming skills, he works tirelessly on the European market, and he is also one of our best performance traders.",
+    "uni":"University of Melbourne",
+    "major":"Information Technology",
+    "iconUrl":"https://irp-cdn.multiscreensite.com/29536662/dms3rep/multi/IMG_4049-006269d6.PNG"
   }
 ]
 }
